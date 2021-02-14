@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  .app {
+    width: 500px;
+    height: 600px;
+    background: #fff;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, .1);
+    border-radius: 10px;
+    margin: 100px auto;
+  }
+  
+  form > div {
+    margin: 0 40px;
+    padding: 15px;
+  }
+  
+  h2 {
+    font-size: 30px;
+    text-align: center;
+    color: orange;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  label {
+    display: block;
+    font-size: 20px;
+    color: navy;
+    text-align: left;
+  }
+  
+  input {
+    width: 90%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #ccc;
+  }
+  
+  .btn {
+    background: orange;
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    width: 77%;
+    margin: 20px 55px 15px;
+  }
+  
+  table, th, tbody{
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    width: 77%;
+    margin: 20px 55px;
+  }
+  
+  th {
+    color: navy;
+    font-weight: 100;
+    padding: 10px;
+  }
+  
+  tbody {
+    color: #555;
+  }
+  
